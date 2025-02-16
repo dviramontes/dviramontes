@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🗺️ Senior Software Engineer at [GroupCollect.com](https://groupcollect.com/)
-- 🌱 I’m currently learning computer good-er (systems programming)
+- 🌱 I’m currently learning to computer good-er (systems programming)
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Elixir and Golang
 - 📫 How to reach me: email dviramontes[at]gmail[dot]com
